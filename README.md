@@ -12,6 +12,7 @@
 
 - <b>Python</b>
   - [Weather Application Practicing API use & GUI Development with Tkinter](https://github.com/ddesantiago/City_Weather_Application)
+  - [Web Scrapping Using Pandas and Numpy](https://github.com/ddesantiago/webscrap_GDP)
 - <b>Matplotlib</b>
   - [Data Visualization Basics Jupyter Notebook](https://github.com/ddesantiago/Tutorials/tree/master)
 
