@@ -13,7 +13,7 @@
 - <b>Python</b>
   - [Weather Application Practicing API use & GUI Development with Tkinter]()
 - <b>Matplotlib</b>
-  - [Data Visualization Basics Jupyter Notebook]()
+  - [Data Visualization Basics Jupyter Notebook](https://github.com/ddesantiago/Tutorials/tree/master)
 
 <h2>👨‍💻 Post Grad Certificates & Courses:</h2>
 
