@@ -11,7 +11,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Python</b>
-  - [Weather Application Practicing API use & GUI Development with Tkinter]()
+  - [Weather Application Practicing API use & GUI Development with Tkinter](https://github.com/ddesantiago/City_Weather_Application)
 - <b>Matplotlib</b>
   - [Data Visualization Basics Jupyter Notebook](https://github.com/ddesantiago/Tutorials/tree/master)
 
