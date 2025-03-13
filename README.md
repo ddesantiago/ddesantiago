@@ -3,7 +3,7 @@
 <h2>💬 About:</h2>
 <h4> Background in STEM and Education, but currently interesting & learning about data science, programming, and Artifical intelligence!</h4>
 <h4>As a researcher and educator, I had many experiences doing myself and teaching about collecting, annotating, analzying, and discussing data, so everything seems quite fitting</h4>
-<h4>Theres nothing to fancy here, just documenting my journey!</h4>
+<h4>Theres nothing too fancy here, just documenting my journey!</h4>
 
 <h2>⚡ Background:</h2>
 <h4> - University of California Berkeley: B.A. Integrative Biology, B.S. Natural Resouce Studies, 2016</h4>
