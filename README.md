@@ -14,6 +14,7 @@
   - [Weather Application Practicing API use & GUI Development with Tkinter](https://github.com/ddesantiago/City_Weather_Application)
   - [Web Scrapping Using Pandas and Numpy](https://github.com/ddesantiago/webscrap_GDP)
   - [Data Analytics: BTC Closing Price Analysis & Visualizations with Python and Tableau](https://github.com/ddesantiago/BTC_clossing_price_analysis)
+  - [Machine Learning: Predicting TSLA Stock Prices with Linear Regression]()
 - <b>Learning!</b>
   - [Data Visualization Basics Jupyter Notebook](https://github.com/ddesantiago/Tutorials/tree/master)
 
